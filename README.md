@@ -1,2 +1,2 @@
 # Birthday-Greeting-Application
-Birthday Greeting Application using basic Kotlin.
+Birthday Greeting Android Application using basic Kotlin.
